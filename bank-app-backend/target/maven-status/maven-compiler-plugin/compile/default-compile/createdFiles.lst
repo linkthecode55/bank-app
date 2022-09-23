@@ -1,0 +1,9 @@
+com/example/bankappbackend/model/Loan.class
+com/example/bankappbackend/controller/CreditFacilityController.class
+com/example/bankappbackend/enums/LoanType.class
+com/example/bankappbackend/enums/Gender.class
+com/example/bankappbackend/repository/CreditFacilityRepository.class
+com/example/bankappbackend/controller/LoanController.class
+com/example/bankappbackend/model/CreditFacility.class
+com/example/bankappbackend/repository/LoanRepository.class
+com/example/bankappbackend/BankAppBackendApplication.class

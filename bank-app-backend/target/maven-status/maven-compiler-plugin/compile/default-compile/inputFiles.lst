@@ -1,0 +1,9 @@
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/enums/Gender.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/controller/CreditFacilityController.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/BankAppBackendApplication.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/enums/LoanType.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/model/Loan.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/controller/LoanController.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/repository/CreditFacilityRepository.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/repository/LoanRepository.java
+/home/ubuntu/Desktop/bank-app/bank-app-backend/src/main/java/com/example/bankappbackend/model/CreditFacility.java
